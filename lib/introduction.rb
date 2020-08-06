@@ -2,7 +2,6 @@ require 'pry'
 
 def introduction(name)
   puts "Hi, my name is #{name}."
-  puts "Hi, my name is " + name.to_s + "."
   #name will serve as a local variable inside of our method body
 end 
 
